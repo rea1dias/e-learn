@@ -1,6 +1,6 @@
 package com.example.elearn.entity;
 
-import com.example.elearn.enums.Role;
+import com.example.elearn.enums.user.Role;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
